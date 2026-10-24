@@ -1,0 +1,15 @@
+{
+    "out_dir": "/path/to/results",
+    "reference_tag": "CommonRefhg38",
+    "reference": "/path/to/hg38.fa",
+    "phased": false,
+    "metadata": "/path/to/metadata.csv",
+    "population_tag": "AllSamples",
+    "dfam_db_dir": "/path/to/dfam40_lib",
+    "te_library_dir": "/path/to/data",
+    "te_library": "Homo_sapiens_Dfam.fa",
+    "te_library_tag": "HsDfam40",
+    "mast2_fa": "/path/to/MAST2_gene.fa",
+    "hexamer_fa": "/path/to/heximer4.txt",
+    "queue_size": 10
+}
