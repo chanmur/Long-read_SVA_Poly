@@ -8,7 +8,7 @@ Germline and somatic (mosaic) calls are made separately for every sample. A phas
 
 ## Directory layout
 
-Overall, main.nf contains the workflows used in the pipeline. All the processes used are defined in the files under modules/. Input parameters are added to the params.json file, while the execution and environment settings are included in the nextflow.config file.
+Overall, main.nf contains the workflows used in the pipeline. All the processes used are defined in the files under `modules/`. Input parameters are added to the `params.json` file, while the execution and environment settings are included in the `nextflow.config` file.
 ```
 .
 ├── main.nf
